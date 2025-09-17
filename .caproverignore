@@ -1,0 +1,11 @@
+# User-specific or IDE files
+.vscode/
+.linux
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+
+# SQLite DB (optional – ignore if DB is temporary/local)
+db.sqlite3
